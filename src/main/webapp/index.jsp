@@ -1,9 +1,9 @@
 <!DOCTYPE>
 <html>
 <head>
-  <title>Some relevant title</title>
+  <title>Congrats - Pipeine project</title>
 </head>
 <body>
-<h2>Hello World! My Second Tomcat Deployment</h2>
+<h2>Hello World! Your Jenkins CICD pipeline working fine</h2>
 </body>
 </html>
